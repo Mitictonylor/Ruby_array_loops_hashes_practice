@@ -53,7 +53,7 @@ users = {
     ]
   }
 }
-
+p users["Jonathan"][:twitter]
 # 1. Get Jonathan's Twitter handle (i.e. the string `"jonnyt"`)
 # 2. Get Erik's hometown
 # 3. Get the array of Erik's lottery numbers
