@@ -3,8 +3,7 @@ Homework from Codeclan on Week 1 day 3, to practice the Hashes, Arrays & Loops i
 
 **Exercise A**
 
-Given an array
-Complete these tasks:
+Given an array, complete these tasks:
 - Add "Edinburgh Waverley" to the end of the array
 - Add "Glasgow Queen St" to the start of the array
 - Add "Polmont" at the appropriate point (between "Falkirk High" and "Linlithgow")
@@ -18,8 +17,7 @@ Complete these tasks:
 
 **Exercise B**
 
-Given an Hash
-Complete these tasks:
+Given an Hash, complete these tasks:
 - Get Jonathan’s Twitter handle (i.e. the string "jonnyt")
 - Get Erik’s hometown
 - Get the array of Erik’s lottery numbers
@@ -33,8 +31,7 @@ Complete these tasks:
 
 **Exercise C**
 
-Given an array of Hashes
-Complete these tasks:
+Given an array of Hashes, complete these tasks:
 - Change the capital of Wales from "Swansea" to "Cardiff".
 - Create a Hash for Northern Ireland and add it to the united_kingdom array (The capital is Belfast, and the population is 1,811,000).
 - Use a loop to print the names of all the countries in the UK.
