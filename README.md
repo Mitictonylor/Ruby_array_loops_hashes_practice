@@ -1,8 +1,6 @@
 Homework from Codeclan on Week 1 day 3, to practice the Hashes, Arrays & Loops in Ruby
 
 
-#BRIEF#
-
 Exercise A
 Given the following data structure:
 stops = [ "Croy", "Cumbernauld", "Falkirk High", "Linlithgow", "Livingston", "Haymarket" ]
